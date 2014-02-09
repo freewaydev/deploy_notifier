@@ -1,0 +1,3 @@
+module DeployNotifier
+  VERSION = "0.0.1"
+end
